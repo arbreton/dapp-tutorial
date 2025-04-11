@@ -1,4 +1,4 @@
-# dapp-tutorial
+## dapp-tutorial
 
 A simple decentralized application in which the user can bet an amount of ether of choice on numbers 1-10.
 
